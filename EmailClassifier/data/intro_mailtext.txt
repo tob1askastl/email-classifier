@@ -1,0 +1,12 @@
+From: fake@phishingsite.com
+To: victim@domain.com
+Subject: Dringend: Ihr Konto wurde gesperrt!
+
+Sehr geehrter Kunde,
+
+Wir haben verdächtige Aktivitäten in Ihrem Konto festgestellt. Bitte klicken Sie auf den folgenden Link, um Ihr Passwort zu ändern und Ihr Konto zu schützen:
+http://phishingsite.com/recovery
+https://u46701922.ct.sendgrid.net/ls/click?upn=u001.bO3G-2FaeMIVe5lSdMnGjJWgTE6W-2FKKheAiBI-3D
+
+Mit freundlichen Grüßen,
+Ihr Sicherheitsteam

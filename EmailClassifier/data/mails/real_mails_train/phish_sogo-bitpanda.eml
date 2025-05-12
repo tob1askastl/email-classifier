@@ -1,0 +1,80 @@
+Return-Path: <010d0195e8310d13-0d042f79-894a-448a-950a-ad7e4a978dd2-000000@aws.offerztake.com>
+Delivered-To: if22b007@bifrost2.technikum-wien.at
+Received: from bifrost2.technikum-wien.at
+	by bifrost2.technikum-wien.at with LMTP
+	id IKK6MoeI6WfxkQ8ASay3Ig
+	(envelope-from <010d0195e8310d13-0d042f79-894a-448a-950a-ad7e4a978dd2-000000@aws.offerztake.com>)
+	for <if22b007@bifrost2.technikum-wien.at>; Sun, 30 Mar 2025 20:08:07 +0200
+Received: from d208-56.smtp-out.ca-central-1.amazonses.com (d208-56.smtp-out.ca-central-1.amazonses.com [23.249.208.56])
+	by bifrost2.technikum-wien.at (Postfix) with ESMTPS id 4ZQj0f5kT8z5FH
+	for <tw_std@bifrost2.technikum-wien.at>; Sun, 30 Mar 2025 20:07:46 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=aws;
+	d=offerztake.com; t=1743357283;
+	h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type;
+	bh=V5NfZrnRZQMxcuAh9WnJsBGcu8mJsl8oJ+auPmW5ZXU=;
+	b=iGn+KAsedMKY8lqeGJT/6z6QpY8EnNd8QzACLET1EiOE8rD8bJFBkLnG4di2tA6+
+	Y+VNhxLi8bSyS19b6K5XGTp0LaJXk5xXlp71yZ/XBxZeA/+lSEohe23UEcZwdxj/UO1
+	TgO6nNHZlNdnX4kke/nNBbErkDBbKeFHum+dY1V2GYVWQ3/UXOgVwh6mr4rqzNGYceR
+	8iIb54ZpbitTLa7yJueStsikF/0VcAdoOe3PBIiGjaulfpwud4lakXMAHzkVp/NiNb+
+	dvFeYJzHS+4xOVTJwgkXso75UQnWA7MXj/9Wr8W3v8c5SB3zdI+MOT3PVF7yZUCfpBm
+	tqZs9fE5Tw==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=xyc6f6lk6pvmrkurvbtj2lmxgr7e7773; d=amazonses.com; t=1743357283;
+	h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type:Feedback-ID;
+	bh=V5NfZrnRZQMxcuAh9WnJsBGcu8mJsl8oJ+auPmW5ZXU=;
+	b=NeuxePygfFMwCl0nCi55ko6HDbmQONeImYFVh5NXMRYaaBvRHP2QkG6oqaK6BVJT
+	B+VPzSpQlsr8HrmEliWjEkEk2qluS7HB6b8tkBygxhGtRIcVgWgfhgdEb4OuPLsjiKq
+	biOD+9DDbzMXPMwMVcKLMY92aLhK9Pqk7azGGqVQ=
+X-Sender: 
+X-AntiAbuse: 
+Date: Sun, 30 Mar 2025 17:54:43 +0000
+To: tw_std@bifrost2.technikum-wien.at
+From: =?ISO-8859-1?B?Qml0cGFuZGE=?= <bitpanda-kundeservices@offerztake.com>
+Subject: =?Windows-1252?B?S3VuZGVuc2VydmljZQ==?=
+Message-ID: <010d0195e8310d13-0d042f79-894a-448a-950a-ad7e4a978dd2-000000@ca-central-1.amazonses.com>
+X-Mailer: bifrost2
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="===============7127499484431803571=="
+Feedback-ID: ::1.ca-central-1.xlEWTGh+4fYKC7VEUdhSRgmc0IDRTHr8Hg7V4WleqAs=:AmazonSES
+X-SES-Outgoing: 2025.03.30-23.249.208.56
+X-Spamd-Bar: ++++++++++++++
+X-Spam-Status: Yes, score=14.50
+Precedence: Junk
+X-Spam: Yes
+
+--===============7127499484431803571==
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ 
+--===============7127499484431803571==
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head><title></title></head><body><div style=3D"paddin=
+g:20px;font-family:Arial,sans-serif;max-width:620px;background-color:rgb(25=
+5,255,255);"><div style=3D"color:rgb(88,100,111);font-size:14px;"><strong>&=
+#83;&#101;&#104;&#114;&#32;&#103;&#101;&#101;&#104;&#114;&#116;&#101;&#114;=
+&#32;&#75;&#117;&#110;&#100;&#101;&#44;</strong></div><br>die =C3=9Cberpr=
+=C3=BCfung Ihrer Angaben steht noch aus, weshalb Ihr Konto aktuell gesperrt=
+ ist. Um die Verifizierung abzuschlie=C3=9Fen und alle erforderlichen In<sm=
+all style=3D"display:none;">goniometrically</small>fo<sup style=3D"display:=
+none;">navagium</sup>rm<del style=3D"display:none;">querendy</del>at<sup st=
+yle=3D"display:none;">smudder</sup>io<del style=3D"display:none;">safeguard=
+ing</del>nen zu =C3=BCbermitteln, klicken Sie bitte auf den Button unten. N=
+ach erfolgreicher Best=C3=A4tigung wird Ihr Konto unverz=C3=BCglich wieder =
+aktiviert.<br><br><center><a style=3D "background: rgb(39, 217, 127); margi=
+n: 10px 0px; padding: 8px 20px; border-radius: 4px; color: rgb(255, 255, 25=
+5); font-size: 16px; font-weight: bold; text-decoration: none; display: inl=
+ine-block; max-width: 180px;" href=3D"http://binssl.ampwaktu777.pro/panda1/=
+foliage/slothfulness/harmonica" target=3D"_blank">Vorgang starten</a></cent=
+er><br><br>Wir danken f=C3=BCr Ihr Verst=C3=A4ndnis und bitten die Unannehm=
+lichkeiten zu verzeihen.<br><br><b>&#77;&#105;&#116;&#32;&#102;&#114;&#101;=
+&#117;&#110;&#100;&#108;&#105;&#99;&#104;&#101;&#110;&#32;&#71;&#114;&#252;=
+&#223;&#101;&#110;</b><br><div style=3D"color:rgb(39,217,127);font-size:12p=
+x;"><strong>&#73;&#104;&#114;&#32;&#66;&#105;&#116;&#112;&#97;&#110;&#100;&=
+#97;&#32;&#75;&#117;&#110;&#100;&#101;&#110;&#115;&#101;&#114;&#118;&#105;&=
+#99;&#101;</strong></div></body></html>
+
+--===============7127499484431803571==--
+

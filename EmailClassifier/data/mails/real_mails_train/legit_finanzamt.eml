@@ -1,0 +1,59 @@
+Received: by 2002:a05:7301:fa0e:b0:15f:bdb5:c91a with SMTP id ju14csp782558dyc;
+        Sun, 9 Mar 2025 18:25:31 -0700 (PDT)
+Received: from mailm23.cna.at (mailm23.cna.at. [85.158.225.53])
+        by mx.google.com with ESMTPS id ffacd0b85a97d-3912c102e9fsi5140663f8f.538.2025.03.09.18.25.30
+        for <t.kastl18@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 09 Mar 2025 18:25:31 -0700 (PDT)
+From: "FinanzOnline@bmf.gv.at" <FinanzOnline@bmf.gv.at>
+To: "t.kastl18@gmail.com" <t.kastl18@gmail.com>
+Subject: Mitteilung FinanzOnline
+Thread-Topic: Mitteilung FinanzOnline
+Thread-Index: ATY5MTA5T+A2lXn8h4c9eQ0y+gfHrA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 10 Mar 2025 01:25:30 +0000
+Message-ID: <533769344.209616.1741569930576@bka-services-5cd668fc9f-wrc48>
+Content-Language: de-DE
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+received-spf: pass (google.com: domain of finanzonline@bmf.gv.at designates
+ 85.158.225.53 as permitted sender) client-ip=85.158.225.53;
+Content-Type: multipart/alternative;
+	boundary="_000_5337693442096161741569930576bkaservices5cd668fc9fwrc48_"
+MIME-Version: 1.0
+
+--_000_5337693442096161741569930576bkaservices5cd668fc9fwrc48_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+U2VociBnZWVocnRlIEZpbmFuek9ubGluZS1UZWlsbmVobWVyaW4sIHNlaHIgZ2VlaHJ0ZXIgRmlu
+YW56T25saW5lLVRlaWxuZWhtZXIsDQoNCldpciBiZWFyYmVpdGVuIElocmVuIEFudHJhZyB6dXIg
+QXJiZWl0bmVobWVydmVyYW5sYWd1bmcuIEJpcyB6dW0gQmVzY2hlaWQgZGF1ZXJ0IGVzIG3Dtmds
+aWNoZXJ3ZWlzZSBub2NoIGVpbmlnZSBaZWl0LiBEZXIgR3J1bmQ6IFdpciBwcsO8ZmVuIHp1ZXJz
+dCBkaWUgRGF0ZW4gYXVmIFZvbGxzdMOkbmRpZ2tlaXQgdW5kIFJpY2h0aWdrZWl0LiBXZW5uIHdp
+ciBkYXp1IGV0d2FzIHZvbiBJaG5lbiBicmF1Y2hlbiwgbWVsZGVuIHdpciB1bnMuDQoNCkhpbndl
+aXM6IERpZXNlIE5hY2hyaWNodCB3dXJkZSBhdXRvbWF0aXNpZXJ0IGVyc3RlbGx0LiBCaXR0ZSBh
+bnR3b3J0ZW4gU2llIG5pY2h0IGRhcmF1Zi4NCg0KRnJldW5kbGljaGUgR3LDvMOfZQ0KSWhyIEZp
+bmFuemFtdA0K
+
+--_000_5337693442096161741569930576bkaservices5cd668fc9fwrc48_
+Content-Type: text/html; charset="utf-8"
+Content-ID: <DB4E44C763E9E3459812CD93A5A40715@1>
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjx0aXRsZT5NaXR0ZWlsdW5nIEZpbmFuek9ubGlu
+ZTwvdGl0bGU+DQo8L2hlYWQ+DQo8Ym9keT4NClNlaHIgZ2VlaHJ0ZSBGaW5hbnpPbmxpbmUtVGVp
+bG5laG1lcmluLCBzZWhyIGdlZWhydGVyIEZpbmFuek9ubGluZS1UZWlsbmVobWVyLDxicj4NCjxi
+cj4NCldpciBiZWFyYmVpdGVuIElocmVuIEFudHJhZyB6dXIgQXJiZWl0bmVobWVydmVyYW5sYWd1
+bmcuIEJpcyB6dW0gQmVzY2hlaWQgZGF1ZXJ0IGVzIG3DtmdsaWNoZXJ3ZWlzZSBub2NoIGVpbmln
+ZSBaZWl0LiBEZXIgR3J1bmQ6IFdpciBwcsO8ZmVuIHp1ZXJzdCBkaWUgRGF0ZW4gYXVmIFZvbGxz
+dMOkbmRpZ2tlaXQgdW5kIFJpY2h0aWdrZWl0LiBXZW5uIHdpciBkYXp1IGV0d2FzIHZvbiBJaG5l
+biBicmF1Y2hlbiwgbWVsZGVuIHdpciB1bnMuPGJyPg0KPGJyPg0KSGlud2VpczogRGllc2UgTmFj
+aHJpY2h0IHd1cmRlIGF1dG9tYXRpc2llcnQgZXJzdGVsbHQuIEJpdHRlIGFudHdvcnRlbiBTaWUg
+bmljaHQgZGFyYXVmLjxicj4NCjxicj4NCkZyZXVuZGxpY2hlIEdyw7zDn2U8YnI+DQpJaHIgRmlu
+YW56YW10DQo8L2JvZHk+DQo8L2h0bWw+DQo=
+
+--_000_5337693442096161741569930576bkaservices5cd668fc9fwrc48_--

@@ -1,0 +1,33 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignore everything
+#*
+
+# Allow important directories
+!src/
+!notebooks/
+!data/
+!models/
+
+# Ignore virtual environment folders
+Lib/
+lib/
+Include/
+Scripts/
+bin/
+venv/
+ENV/
+env/
+.venv/
+
+# Ignore Python-related cache and temporary files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Allow specific files
+!.gitignore
+!pyvenv.cfg
