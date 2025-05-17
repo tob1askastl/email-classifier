@@ -31,3 +31,12 @@ __pycache__/
 # Allow specific files
 !.gitignore
 !pyvenv.cfg
+
+# Virtual environments
+venv/
+.env/
+*.pyc
+__pycache__/
+EmailClassifier/pyvenv.cfg
+EmailClassifier/Lib/
+EmailClassifier/Scripts/
